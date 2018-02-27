@@ -1,0 +1,17 @@
+# vim: ft=yaml noet fdm=marker
+
+# Superficial and Deep Back & Prosection of Suboccipital Region Lab{{{
+
+greater occipital nerve:
+        branch of: C2 spinal nerve
+suboccipital nerve:
+        branch of: C1 spinal nerve
+
+#}}}
+
+- deep artery of the arm:
+        synonym: profunda brachii artery
+
+- radial nerve: ~
+
+- circumflex scapular artery: ~

@@ -1,0 +1,105 @@
+# vim: ft=yaml noet fdm=marker
+
+# Superficial and Deep Back & Prosection of Suboccipital Region Lab{{{
+scapula:
+	course: [ 'lab' ]
+	location: ~ # TODO
+	has:
+		- scapular spine:
+			course: [ 'lab' ]
+		- acromion process:
+			course: [ 'lab' ]
+		- coracoid process:
+			course: [ 'lab' ]
+		- glenoid fossa:
+			course: [ 'lab' ]
+		- supraspinous fossa:
+			course: [ 'lab' ]
+		- infraspinous fossa:
+			course: [ 'lab' ]
+		- subscapular fossa:
+			course: [ 'lab' ]
+		- superior border of scapula:
+			course: [ 'lab' ]
+		- medial border of scapula:
+			course: [ 'lab' ]
+		- lateral border of scapula:
+			course: [ 'lab' ]
+		- superior angle of scapula:
+			course: [ 'lab' ]
+		- inferior angle of scapula:
+			course: [ 'lab' ]
+ilium:
+	has:
+		- iliac crest: ~
+		- posterior superior iliac spine: ~
+occipital bone: ~
+
+vertebra:
+	has:
+		- body
+		- pedicle
+		- vertebral foramen
+		- lamina
+		- transverse process
+		- spinous process
+		- superior articular process
+		- inferior articular process
+		- vertebral notch
+		- intervertebral foramen
+
+vertebral column:
+	has:
+		- cervical vertebrae:
+			has:
+				- C1 vertebra:
+					synonmym: atlas
+				- C2 vertebra:
+					synonmym: axis
+					has:
+						- dens
+				- C7 vertebra:
+					has:
+						- vertebra prominens
+				- cervical vertebra:
+					count: 7
+					has:
+						- body:
+							description: ~
+						- transverse foramen
+						- posterior tubercle
+						- posterior arch
+						- groove for vertebral artery
+			
+		- thoracic vertebrae:
+			has:
+				- thoracic vertebra:
+					count: 12
+					has:
+						- body:
+							description: ~
+						- costal facets
+		- lumbar vertebrae:
+			has:
+				- lumbar vertebra:
+					count: 5
+					has:
+						- body:
+							description: ~
+		- sacral vertebrae:
+			synonmym: sacrum
+			has:
+				- sacral vertebra:
+					count: 5
+					has:
+						- sacral hiatus
+						- posterior sacral foramina
+							synonmym: dorsal sacral foramina
+			fused: true
+		- coccygeal vertebrae:
+			synonmym: coccyx
+			has:
+				- coccygeal vertebra:
+					count: 4
+			fused: true
+# }}}

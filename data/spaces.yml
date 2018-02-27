@@ -1,0 +1,44 @@
+- suboccipital triangle:
+        borders:
+                - rectus capitis posterior major muscle:
+                        location: above and medially
+                - obliquus capitis superior muscle
+                        location: above and laterally
+                - obliquus capitis inferior muscle
+                        location: below and laterally
+        contents:
+                - suboccipital nerve
+                - vertebral artery {third part of the vertebral artery}
+                - {suboccipital venous plexus}
+
+
+- quadrangular space:
+        borders:
+                - teres minor muscle
+                - teres major muscle
+                - humerus
+                - long head of triceps brachii muscle
+        contents:
+                - posterior circumflex humeral artery
+                - axillary nerve
+
+- triangular interval: ~
+        borders:
+                - teres major muscle
+                - lateral head of the triceps brachii muscle
+                - long head of the tricepsbrachii muscle
+        contents:
+                - deep artery of the arm
+                - radial nerve
+
+- triangular space:
+        borders:
+                - teres minor muscle
+                - teres major muscle
+                - long head of the triceps brachii muscle
+        contents:
+                - circumflex scapular artery
+
+- femoral triangle: ~
+
+

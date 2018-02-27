@@ -1,0 +1,96 @@
+# vim: ft=yaml noet fdm=marker
+
+# Superficial and Deep Back & Prosection of Suboccipital Region Lab {{{
+# Back {{{
+- trapezius muscle:
+        course: [ 'lab', '' ]
+        group: superficial muscles of the back
+        location: superficial part of back, superiorally
+        innervation: CN XI - spinal accessory nerve
+        blood supply: transverse cervical artery
+        action: elevation, retraction, depression, superior rotation of scapula
+        insertion: acromion and spine of scapula
+        fibers: descending fibers, transverse fibers, ascending fibers
+- latissimus dorsi:
+        course: [ 'lab' ]
+        group: superficial muscles of the back
+        location: superficial part of back, inferiorally
+        innervation: thoracodorsal nerve
+        blood supply: thoracodorsal artery
+        action:
+                - extends, adducts, medial rotates humerus
+                - raises body towards arms during climbing
+        insertion: intertubulcular sulcus of humerus
+- rhomboid major muscle:
+        course: [ 'lab' ]
+        group: superficial muscles of the back
+        location: medial superior back, deep to the trapezius muscle
+        innervation: dorsal scapular nerve
+        blood supply: dorsal scapular artery
+        action: retracts scapula, inferior rotation of scapula
+- rhomboid minor muscle:
+        course: [ 'lab' ]
+        group: superficial muscles of the back
+        location: superior to rhomboid major, usually near spine of scapula
+        innervation: dorsal scapular nerve
+        blood supply: dorsal scapular artery
+        action: retracts scapula, inferior rotation of scapula
+- levator scapulae muscle:
+        course: [ 'lab' ]
+        group: superficial muscles of the back
+        location: ~
+        innervation: dorsal scapular nerve
+        blood supply: dorsal scapular artery
+        action: elevates scapula, inferior rotation of scapula
+        insertion: superior root of scapula spine
+- serratus posterior superior muscle:
+        course: [ 'lab' ]
+        group: intermediate back muscles
+- serratus posterior inferior muscle:
+        course: [ 'lab' ]
+        group: intermediate back muscles
+- erector spinae
+        course: [ 'lab' ]
+# }}}
+
+# Subocciptal region {{{
+
+- rectus capitis posterior minor muscle: ~
+- rectus capitis posterior major muscle: ~
+- obliquus capitis superior muscle: ~
+- obliquus capitis inferior muscle: ~
+
+# }}}
+
+# }}}
+
+# Scapular Region and Prosection of Spinal Cord Lab Learning Objectives {{{
+- deltoid muscle:
+        innervation: axillary nerve
+        action:
+                - abduction of humerus after 15 degrees
+                - flexion and medial rotation
+                - extension and lateral rotation
+        insertion: deltoid tuberosity of humerus
+        attachment:
+                - lateral clavicle
+                - spine of scapula
+                - acromion process of scapula
+- supraspinatus muscle:
+        group: rotator cuff
+        innervation: suprascapular nerve
+        action: abduction of humerus for first 15 degrees
+        origin: supraspinous fossa
+        insertion: greater tubercle of humerus
+- infraspinatus muscle:
+        group: rotator cuff
+        innervation: suprascapular nerve
+        action: laterally rotates the arm
+        origin: infraspinous fossa
+        insertion: greater tubercle of humerus
+teres minor muscle:
+        group: rotator cuff
+        location: superior to teres major muscle, inferior to infraspinatus muscle
+        innervation: axillary nerve
+
+# }}}
